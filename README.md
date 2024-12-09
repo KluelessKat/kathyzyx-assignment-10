@@ -1,5 +1,6 @@
 # Assignment 10: Image Search
 --------------------
+**Demo video**: https://youtu.be/jLNdpN21ndQ
 
 **Goal:** Implement a simplified version of Google Image Search.
 
