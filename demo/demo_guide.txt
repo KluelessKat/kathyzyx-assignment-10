@@ -1,0 +1,83 @@
+
+Demo 1: Dog
+------------
+
+Query Type: Image
+Image: myla
+PCA: No
+[SUBMIT]
+
+Query Type: Image
+Image: myla
+PCA: Yes
+[SUBMIT]
+
+Query Type: Hybrid
+Image: myla
+PCA: No
+Text: Black
+Weight: 0.5
+[SUBMIT]
+
+
+Demo 2: Cake
+-----------
+
+Query Type: Image
+Image: cake.png
+PCA: No
+[SUBMIT]
+
+Query Type: Image
+Image: cake.png
+PCA: Yes
+[SUBMIT]
+
+Query Type: Hybrid
+Image: cake.png
+PCA: No
+Text: vanilla frosting (not chocolate), white fluffy, with fruits on top
+Weight: 0.3
+[SUBMIT]
+
+
+Demo 3: Hydrant
+---------------
+
+Query Type: Image
+Image: hydrant.png
+PCA: No
+[SUBMIT]
+
+Query Type: Hybrid
+Image: hydrant.png
+PCA: No
+Text: With yellow exterior
+Weight: 0.4
+[SUBMIT]
+
+
+Demo 4: Cat
+------------
+
+Query Type: Image
+Image: cat.png
+PCA: No
+[SUBMIT]
+
+Query Type: Hybrid
+Image: cat.png
+PCA: No
+Text: Black
+Weight: 0.5
+[SUBMIT]
+
+Query Type: Hybrid
+Image: cat.png
+PCA: No
+Text: White
+Weight: 0.5
+[SUBMIT]
+
+
+
